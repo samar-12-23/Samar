@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samar-12-23&label=Profile%20views&color=0e75b6&style=flat" alt="samar-12-23" /> </p>
 
-- 🌱 I’m currently learning **Flask, AI/ML**
-
+- 🌱 I’m currently learning **Flask, AI/ML*
+  
 - 👯 I’m looking to collaborate on **Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samar-12-23)
