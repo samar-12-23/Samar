@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samar-12-23&label=Profile%20views&color=0e75b6&style=flat" alt="samar-12-23" /> </p>
 
-- 🌱 I’m currently learning **Flask, AI/ML*
+- 🌱Currently exploring Flask and AI/ML to build scalable and intelligent applications.
   
-- 👯 I’m looking to collaborate on **Projects**
+- 👯 Open to collaborate on exciting projects that involve development, problem-solving, and innovation.
 
-- 👨‍💻 All of my projects are available at [https://github.com/samar-12-23)
+- 👨‍💻 Check out my work :-  [https://github.com/samar-12-23)
 
-- 💬 Ask me about **DSA,Development**
+- 💬 Let’s talk about Data Structures & Algorithms, Web Development, and AI/ML applications.
 
-- 📫 How to reach me **samargupta0206@gmail.com**
+- 📫 Reach me at **samargupta0206@gmail.com**
 
-- ⚡ Fun fact **I'm Dumb**
+- ⚡ Fun fact **I believe every “bug” is just a hidden feature waiting to be discovered.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
