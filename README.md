@@ -1,37 +1,53 @@
 <h1 align="center">Hi 👋, I'm Samar Gupta</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">🚀 A Passionate Software Engineer & Aspiring Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JnNzBoN2N0Nm1xOHgyYTJjNjNpeWYydWp3OGIyaDZwam9ka2NpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/wGWFVvwJybDwTlnTSS/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samar-12-23&label=Profile%20views&color=0e75b6&style=flat" alt="samar-12-23" /> </p>
-
-- 🌱Currently exploring Flask and AI/ML to build scalable and intelligent applications.
-  
-- 👯 Open to collaborate on exciting projects that involve development, problem-solving, and innovation.
-
-- 👨‍💻 Check out my work :-  [https://github.com/samar-12-23)
-
-- 💬 Let’s talk about Data Structures & Algorithms, Web Development, and AI/ML applications.
-
-- 📫 Reach me at **samargupta0206@gmail.com**
-
-- ⚡ Fun fact **I believe every “bug” is just a hidden feature waiting to be discovered.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samar-gupta-449536284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samar-gupta-449536284" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:24469714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:24469714" height="30" width="40" /></a>
-<a href="https://kaggle.com/samg4758101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samg4758101" height="30" width="40" /></a>
-<a href="https://instagram.com/samar_0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samar_0206" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sg4758101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sg4758101" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sg475ou5d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sg475ou5d/" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=samar-12-23&label=Profile%20Views&color=0e75b6&style=flat" alt="samar-12-23" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samar-12-23&show_icons=true&locale=en&layout=compact" alt="samar-12-23" /></p>
+### 🌟 About Me  
+- 🌱 Currently diving into **Flask, AI/ML** to craft scalable and intelligent applications.  
+- 👯 Open to **collaborating** on impactful projects in **Web Development & Data Science**.  
+- 👨‍💻 Explore all my projects here 👉 [GitHub Portfolio](https://github.com/samar-12-23)  
+- 💬 Love discussing **Data Structures, Algorithms, and ML applications**.  
+- 📫 Reach me at **samargupta0206@gmail.com**  
+- ⚡ Fun fact: *Every bug is just a hidden feature waiting to be discovered* 😉  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samar-12-23&show_icons=true&locale=en" alt="samar-12-23" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samar-12-23&" alt="samar-12-23" /></p>
+### 🌐 Connect With Me  
+<p align="left">
+<a href="https://linkedin.com/in/samar-gupta-449536284" target="_blank"><img src="https://img.shields.io/badge/-Samar%20Gupta-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/24469714" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white"/></a>
+<a href="https://kaggle.com/samg4758101" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/></a>
+<a href="https://instagram.com/samar_0206" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/sg4758101" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/sg475ou5d/" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,javascript,react,nodejs,html,css,bootstrap,java,mysql,postgres,mongodb,sqlite,oracle,git,linux,heroku,matlab,sklearn,pandas,numpy,seaborn" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samar-12-23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samar-12-23&theme=tokyonight" alt="GitHub Streak" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samar-12-23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />  
+</p>
+
+---
+
+### ✨ Quote of the Day  
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
