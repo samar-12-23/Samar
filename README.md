@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samar Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/AllianceDAO-alliance-alliancedao-dao-wGWFVvwJybDwTlnTSS">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JnNzBoN2N0Nm1xOHgyYTJjNjNpeWYydWp3OGIyaDZwam9ka2NpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samar-12-23&label=Profile%20views&color=0e75b6&style=flat" alt="samar-12-23" /> </p>
 
